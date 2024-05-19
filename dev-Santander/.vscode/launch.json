@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Contabanco",
+            "request": "launch",
+            "mainClass": "Aula14.Contabanco",
+            "projectName": "dev-Santander_a877f882"
+        },
+        {
+            "type": "java",
+            "name": "Aula13",
+            "request": "launch",
+            "mainClass": "Aula13.Aula13",
+            "projectName": "dev-Santander_a877f882"
+        },
+        {
+            "type": "java",
+            "name": "Aula12",
+            "request": "launch",
+            "mainClass": "Aula12.Aula12",
+            "projectName": "dev-Santander_a877f882"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Aula_1",
+            "request": "launch",
+            "mainClass": "Aula1.Aula_1",
+            "projectName": "dev-Santander_a877f882"
+        },
+        {
+            "type": "java",
+            "name": "usuario",
+            "request": "launch",
+            "mainClass": "Aula10.usuario",
+            "projectName": "dev-Santander_a877f882"
+        },
+        {
+            "type": "java",
+            "name": "Aula11",
+            "request": "launch",
+            "mainClass": "Aula11.Aula11",
+            "projectName": "dev-Santander_a877f882"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "Aula2.BoletimEstudantil",
+            "projectName": "dev-Santander_a877f882"
+        },
+        {
+            "type": "java",
+            "name": "Aula3",
+            "request": "launch",
+            "mainClass": "Aula3.Aula3",
+            "projectName": "dev-Santander_a877f882"
+        },
+        {
+            "type": "java",
+            "name": "Aula4",
+            "request": "launch",
+            "mainClass": "Aula4.Aula4",
+            "projectName": "dev-Santander_a877f882"
+        },
+        {
+            "type": "java",
+            "name": "Aula5",
+            "request": "launch",
+            "mainClass": "Aula5.Aula5",
+            "projectName": "dev-Santander_a877f882"
+        },
+        {
+            "type": "java",
+            "name": "Aula6",
+            "request": "launch",
+            "mainClass": "Aula6.Aula6",
+            "projectName": "dev-Santander_a877f882"
+        },
+        {
+            "type": "java",
+            "name": "Aula7",
+            "request": "launch",
+            "mainClass": "Aula7.Aula7",
+            "projectName": "dev-Santander_a877f882"
+        },
+        {
+            "type": "java",
+            "name": "Aula8",
+            "request": "launch",
+            "mainClass": "Aula8.Aula8",
+            "projectName": "dev-Santander_a877f882"
+        },
+        {
+            "type": "java",
+            "name": "Aula9",
+            "request": "launch",
+            "mainClass": "Aula9.Aula9",
+            "projectName": "dev-Santander_a877f882"
+        }
+    ]
+}
